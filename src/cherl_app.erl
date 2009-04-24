@@ -1,10 +1,10 @@
-%% @author author <author@example.com>
-%% @copyright YYYY author.
+%% @author Matthew Hooker <mwhooker@gmail.com>
+%% @copyright 2009 Matthew Hooker.
 
 %% @doc Callbacks for the cherl application.
 
 -module(cherl_app).
--author('author <author@example.com>').
+-author('Matthew Hooker <mwhooker@gmail.com>').
 
 -behaviour(application).
 -export([start/2,stop/1]).

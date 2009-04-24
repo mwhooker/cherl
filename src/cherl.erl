@@ -1,10 +1,10 @@
-%% @author author <author@example.com>
-%% @copyright YYYY author.
+%% @author Matthew Hooker <mwhooker@gmail.com>
+%% @copyright 2009 Matthew Hooker.
 
 %% @doc TEMPLATE.
 
 -module(cherl).
--author('author <author@example.com>').
+-author('Matthew Hooker <mwhooker@gmail.com>').
 -export([start/0, stop/0]).
 
 ensure_started(App) ->
