@@ -1,7 +1,6 @@
 include ../../../support/include.mk
 
 APPLICATION=mochiweb
-DOC_OPTS={dir,\"../doc\"}
 
 all: $(EBIN_FILES)
 
